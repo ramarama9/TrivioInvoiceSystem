@@ -13,8 +13,6 @@ A full-stack invoice management system for Trivio Global. It allows users to man
 
 - 📊 Dashboard with real-time invoice stats and charts
 - 💾 Add, edit, delete, and search invoices
-- 🌗 Dark mode toggle
-- 🧑 User interface with logo and avatar
 - 📤 Upload to GitHub
 
 ## 📦 Installation
